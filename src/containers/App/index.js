@@ -9,17 +9,12 @@
 
 import React from 'react';
 
-import HomePage from '../../containers/HomePage/Loadable';
-import NotFoundPage from '../../containers/NotFoundPage/Loadable';
-
-import GlobalStyle from '../../global-styles';
+import NavBar from '../NavBar/Loadable';
 
 export default function App() {
     return (
         <div>
-            <HomePage />
-            <NotFoundPage />
-            <GlobalStyle />
+            <NavBar />
         </div>
     );
 }
