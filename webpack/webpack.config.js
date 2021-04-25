@@ -8,7 +8,7 @@ const CompressionPlugin = require('compression-webpack-plugin');
 module.exports = (webpackConfigEnv, argv) => {
     const defaultConfig = singleSpaDefaults({
         orgName: 'antariksh-roy',
-        projectName: '101-application-landing',
+        projectName: '100-navigation-bar',
         webpackConfigEnv,
         argv,
     });

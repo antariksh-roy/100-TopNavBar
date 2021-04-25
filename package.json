@@ -1,5 +1,5 @@
 {
-    "name": "@antariksh-roy/101-application-landing",
+    "name": "@antariksh-roy/100-navigation-bar",
     "engines": {
         "npm": ">=5",
         "node": ">=8.15.1"

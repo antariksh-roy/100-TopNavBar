@@ -4,8 +4,8 @@ const singleSpaDefaults = require('webpack-config-single-spa-react');
 
 module.exports = (webpackConfigEnv, argv) => {
     const defaultConfig = singleSpaDefaults({
-        orgName: 'single-spa-meetantariksh',
-        projectName: 'microfrontend-1',
+        orgName: 'antariksh-roy',
+        projectName: '100-navigation-bar',
         webpackConfigEnv,
         argv,
     });
